@@ -1,2 +1,2 @@
 # Python-2025-SUMMER
-for test
+记录2025-7-21至2025-8-1在同济大学上Python小学期课程的课程作业
